@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | My Story</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/static/media/</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title> Memasukkan Tabel ke Dalam Artikel</title>
+      <link>/post/memasukkan-tabel-ke-dalam-artikel/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/memasukkan-tabel-ke-dalam-artikel/</guid>
+      <description>
+
+
+&lt;p&gt;Berikut adalah gambaran kasar modal untuk memulai dunia fotografi berdasarkan pengalaman:&lt;/p&gt;
+&lt;table class=&#34;table table-condensed&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+No
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+Item
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+Harga
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+Kamera
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7500000
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+Lensa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2500000
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+Tripod
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+500000
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Memasukkan Gambar ke Dalam Artikel</title>
+      <link>/post/memasukkan-gambar-ke-dalam-artikel/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/memasukkan-gambar-ke-dalam-artikel/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;hugo.jpg&#34; alt=&#34;Gambar logo Hugo&#34;&gt;
+Gambar yang cantik dapat dihasilkan dari momen yang tepat dan sentuhan editing.
+&lt;img src=&#34;https://i.imgur.com/5yeBVeM.jpg&#34; alt=&#34;source: imgur&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Menambahkan Chart ke Dalam Artikel</title>
+      <link>/post/menambahkan-chart-ke-dalam-artikel/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/menambahkan-chart-ke-dalam-artikel/</guid>
+      <description>
+
+
+&lt;p&gt;Berikut adalah gambaran kasar modal untuk memulai dunia fotografi berdasarkan pengalaman:&lt;/p&gt;
+&lt;p&gt;Grafik Bar Chart
+&lt;img src=&#34;/post/2020-09-24-menambahkan-chart-ke-dalam-artikel.en_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Grafik Pie Chart
+&lt;img src=&#34;/post/2020-09-24-menambahkan-chart-ke-dalam-artikel.en_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Titik Awal Perjumpaan dengan Dunia Fotografi</title>
+      <link>/post/titik-awal-perjumpaan-dengan-dunia-fotografi/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/titik-awal-perjumpaan-dengan-dunia-fotografi/</guid>
+      <description>
+
+
+&lt;p&gt;Saya menggemari fotografi sejak kecil dengan kamera jadul &lt;svg style=&#34;height:0.8em;top:.04em;position:relative;fill:green;&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path d=&#34;M48 32C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48H48zm0 32h106c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6H38c-3.3 0-6-2.7-6-6V80c0-8.8 7.2-16 16-16zm426 96H38c-3.3 0-6-2.7-6-6v-36c0-3.3 2.7-6 6-6h138l30.2-45.3c1.1-1.7 3-2.7 5-2.7H464c8.8 0 16 7.2 16 16v74c0 3.3-2.7 6-6 6zM256 424c-66.2 0-120-53.8-120-120s53.8-120 120-120 120 53.8 120 120-53.8 120-120 120zm0-208c-48.5 0-88 39.5-88 88s39.5 88 88 88 88-39.5 88-88-39.5-88-88-88zm-48 104c-8.8 0-16-7.2-16-16 0-35.3 28.7-64 64-64 8.8 0 16 7.2 16 16s-7.2 16-16 16c-17.6 0-32 14.4-32 32 0 8.8-7.2 16-16 16z&#34;/&gt;&lt;/svg&gt; pemberian ayah. Itulah pengalaman awal saya dalam menggeluti dunia fotografi.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tips Foto Close-Up Menarik</title>
+      <link>/post/tips-foto-close-up-menarik/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/tips-foto-close-up-menarik/</guid>
+      <description>
+
+
+&lt;p&gt;Berbagai cara dilakukan untuk mendapatkan foto close-up yang maksimal untuk kepentingan konten sosial media. Tapi tahukah Anda bahwa ada beberapa tips yang bisa kita pedomani dalam menghasilkan foto close-up yang bagus?&lt;/p&gt;
+&lt;p&gt;Berikut adalah beberapa tips dalam pengambilan foto close-up:
+1. Mengambil foto dari angle kanan
+2. Sisakan sedikit ruang di atas kepala&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

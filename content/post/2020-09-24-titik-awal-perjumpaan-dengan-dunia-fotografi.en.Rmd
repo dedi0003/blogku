@@ -1,0 +1,25 @@
+---
+title: Titik Awal Perjumpaan dengan Dunia Fotografi
+author: Diego Maradoni
+date: '2020-09-24'
+slug: titik-awal-perjumpaan-dengan-dunia-fotografi
+categories:
+  - story
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-09-24T01:19:17+10:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+```{r echo = FALSE}
+library(fontawesome)
+```
+
+Saya menggemari fotografi sejak kecil dengan kamera jadul `r fa(name = "camera-retro", fill = "green")` pemberian ayah. Itulah pengalaman awal saya dalam menggeluti dunia fotografi. 
+

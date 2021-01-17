@@ -1,0 +1,50 @@
+---
+title: Menambahkan Chart ke Dalam Artikel
+author: Diego Maradoni
+date: '2020-09-24'
+slug: menambahkan-chart-ke-dalam-artikel
+categories:
+  - tips
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-09-24T15:07:23+10:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r , echo = FALSE, warning = FALSE, message=FALSE}
+library(readxl)
+library(ggplot2)
+library(dplyr)
+library(scales)
+```
+
+Berikut adalah gambaran kasar modal untuk memulai dunia fotografi berdasarkan pengalaman: 
+
+Grafik Bar Chart
+```{r , echo = FALSE, warning = FALSE, message=FALSE}
+table <- read_xlsx("budget.xlsx")
+
+table %>% 
+ggplot(aes(x = Item, y = scales::comma(Harga), fill = Item)) +
+  geom_col()+
+  ylab("Harga")
+
+```
+
+Grafik Pie Chart
+```{r, echo = FALSE, warning = FALSE, message=FALSE}
+table %>% 
+  ggplot(aes(x = "", y = scales::comma(Harga), fill = Item)) +
+  geom_col() +
+  coord_polar("y", start = 0)+
+  theme_void()
+  
+```
+

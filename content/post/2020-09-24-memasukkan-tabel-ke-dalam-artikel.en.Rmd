@@ -1,0 +1,29 @@
+---
+title: ' Memasukkan Tabel ke Dalam Artikel'
+author: Diego Maradoni
+date: '2020-09-24'
+slug: memasukkan-tabel-ke-dalam-artikel
+categories:
+  - tips
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-09-24T13:57:29+10:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+Berikut adalah gambaran kasar modal untuk memulai dunia fotografi berdasarkan pengalaman:
+```{r , echo = FALSE}
+library(readxl)
+library(formattable)
+```
+
+```{r , echo = FALSE}
+table <- read_xlsx("budget.xlsx")
+formattable(table)
+```
